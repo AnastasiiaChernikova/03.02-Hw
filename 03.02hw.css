@@ -1,0 +1,87 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-a {
+     font-family: "Raleway";
+}
+
+.nav-li {
+     font-family: "Roboto";
+}
+
+.ul-a {
+     font-family: "Roboto";
+}
+
+.main-a {
+    font-family: "Roboto";
+}
+
+.sect-h {
+    font-family: "Roboto";
+}
+
+.sect-p {
+    font-family: "Roboto";
+}
+
+.ft-p {
+   font-family: "Roboto"; 
+}
+
+.nav-ul {
+     display: flex;
+    list-style: none;
+    margin-right: 344px;
+}
+
+.header-ul
+{
+display: flex;
+    list-style: none;
+    margin-right: 30px;
+    
+}
+
+.header {
+    padding-top: 24px;
+    padding-bottom: 25px;
+}
+
+.ul-li {
+    display: flex;
+    list-style: none;
+    margin-right: 400px;
+}
+
+.sect-li {
+    margin-right: 30px;
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+.sect-img {
+    display: block;
+    width: 370px;
+    height: 294px;
+}
+
+.div1 {
+    display: flex;
+}
+
+.header-a {
+    margin-right: 93px;
+}
+
+.sect-ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ul-la {
+    margin-bottom: 9px;
+}
+
